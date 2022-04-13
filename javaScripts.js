@@ -6,7 +6,7 @@ function btn1(){
         document.getElementById("result").value = document.getElementById("result").value  + document.getElementById("numClicked").value}
 }
 function btn2(){
-    
+
     document.getElementById("numClicked").value = "2";
     if (document.getElementById("result").value == ".0"){
         document.getElementById("result").value == "2";
