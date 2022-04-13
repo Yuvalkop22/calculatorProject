@@ -1,0 +1,35 @@
+body{
+    background-color: teal;
+}
+.headline{
+    text-align: center;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    size: 30px;
+}
+.resultFrame{
+    text-align: center;
+}
+.result{
+    text-align: center;
+    font-size: x-large;
+    height: 80px;
+    width: 400px;
+}
+.pressedNumber{
+    text-align: center;
+}
+.numClicked{
+    font-size:x-large;
+    text-align: center;
+    height: 60px;
+    width: 400px;
+}
+.firstRow{
+    text-align: center;
+}
+.buttonStyle{
+    height: 60px;
+    width: 60px;
+    font-size: x-large;
+}
